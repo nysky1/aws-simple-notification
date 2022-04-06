@@ -1,7 +1,7 @@
 {
   "author": "A Better Way <jbautothrift@gmail.com>",
   "name": "aws-simple-notification",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Send an SMS notification to a phone number via AWS SNS.",
   "main": "index.js",
   "scripts": {
