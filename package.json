@@ -13,7 +13,11 @@
   },
   "keywords": [
     "AWS",
-    "SNS"
+    "SNS",
+    "OTP",
+    "SMS",
+    "TXT",
+    "Text Message"
   ],
   "license": "ISC",
   "bundleDependencies": false,
