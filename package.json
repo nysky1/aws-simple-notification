@@ -1,0 +1,27 @@
+{
+  "author": "A Better Way <jbautothrift@gmail.com>",
+  "name": "aws-simple-notification",
+  "version": "1.0.2",
+  "description": "Send an SMS notification to a phone number via AWS SNS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nysky1/aws-simple-notification.git"
+  },
+  "keywords": [
+    "AWS",
+    "SNS"
+  ],
+  "license": "ISC",
+  "bundleDependencies": false,
+  "dependencies": {
+    "aws-sdk": "^2.94.0"
+  },
+  "bugs": {
+    "url": "https://github.com/nysky1/aws-simple-notification/issues"
+  },
+  "homepage": "https://github.com/nysky1/aws-simple-notification#readme"
+}
